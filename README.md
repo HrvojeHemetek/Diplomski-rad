@@ -1,6 +1,6 @@
-# Hamiltonian Simulation via Linear Combination of Unitaries (LCU)
+# Implementation of non-unitary operators in quantum logical circuits
 
-This repository contains Python code for simulating Hamiltonian dynamics on quantum computers using various **Linear Combination of Unitaries (LCU)** techniques. It serves as a comprehensive framework for experimenting with single-ancilla, and analog LCU approaches, described in the paper "Implementing any Linear Combination of Unitaries on Intermediate-term Quantum Computers" by Shantanav Chakraborty, using Qiskit.
+This repository contains Python code for implementing non-unitary operators in quantum logical circuits and simulating Hamiltonian dynamics on quantum computers using various **Linear Combination of Unitaries (LCU)** techniques. It serves as a comprehensive framework for experimenting with single-ancilla, and analog LCU approaches, described in the paper "Implementing any Linear Combination of Unitaries on Intermediate-term Quantum Computers" by Shantanav Chakraborty, using Qiskit.
 
 ## Project Structure
 
