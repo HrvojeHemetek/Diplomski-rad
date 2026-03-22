@@ -1,0 +1,8 @@
+n,time,epsilon,model,average_error,optimize,success_rate
+2,0.3,0.1,heisenberg,0.03156,False,67.9
+2,0.3,0.1,heisenberg,0.03293,True,72.9
+3,0.2,0.1,ising,0.03025,False,68.9
+3,0.2,0.1,ising,0.03149,True,70.7
+2,1.0,0.1,heisenberg,0.02,False,50.5
+2,1.0,0.1,heisenberg,0.02,True,52.0
+
